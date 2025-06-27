@@ -102,14 +102,6 @@ streamlit run app.py
 ---
 
 --- 
-## ✍️ Author 
-
-Swapnil Dudhane
-SYIT – Government Polytechnic, Kolhapur
-
-Linkidin : https://www.linkedin.com/in/swapnil1930
-
-Github : https://github.com/swap1930
 
 ---
 
